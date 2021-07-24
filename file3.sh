@@ -5,5 +5,5 @@ echo " $1 is big "
 elif [ $2 -gt $3 ];then
 echo " $2 is big "
 else
-echo "$3 is big"
-fi
+echo "$3 is big" i can edit
+done
